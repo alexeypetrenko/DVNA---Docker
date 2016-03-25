@@ -1,0 +1,1 @@
+This image automatically deploys latest version of a [Damn Vulnerable Node Application](https://github.com/quantumfoam/DVNA) on top of an official Node.js [Docker image](https://hub.docker.com/_/node/).
